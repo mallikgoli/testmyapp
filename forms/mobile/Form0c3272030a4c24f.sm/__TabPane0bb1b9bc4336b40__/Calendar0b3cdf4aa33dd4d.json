@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "30/4/2018",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "88dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa894df3ca0e4440b83afa6fa3ba3ad8",
+    "_top_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        30,
+        4,
+        2018,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": 30,
+    "daytextalignmentincell": 5,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "30/04/2018",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Calendar0b3cdf4aa33dd4d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f559541e007e4e04968377ddfd215c9f",
+    "minutes": 0,
+    "month": 4,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2018",
+    "parent": "Tab0cba1bb47ac2742",
+    "pf": "Form0c3272030a4c24f",
+    "seconds": 0,
+    "selectdate": "//2018",
+    "tabpaneId": "TabPane0bb1b9bc4336b40",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2018,
+    "zindex": 1
+}

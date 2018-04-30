@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTabPane",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_activeTabsBackUp": [
+        0
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_top_": {
+        "type": "string",
+        "value": "124dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "activeskin": "sca6c4f5c1784aa697b5acc7d948abdb",
+    "activetab": 0,
+    "activetabs": [
+        0
+    ],
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Tab0cba1bb47ac2742"
+    ],
+    "collapsedimage": "",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "Form0c3272030a4c24f",
+        "platform": "iphone",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "expandedimage": "",
+    "id": "TabPane0bb1b9bc4336b40",
+    "imageposition": "right",
+    "inactiveskin": "s1e0a64458e14373865ba9e259213594",
+    "info": null,
+    "isvisible": true,
+    "kuid": "deaf52ff3a7d4d6e9f489e28a5d7502c",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "Form0c3272030a4c24f",
+    "pf": "Form0c3272030a4c24f",
+    "screenlevelwidget": false,
+    "tabnamealignment": "left",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "collapsedImage": "",
+            "expandedImage": "",
+            "imagePosition": "right",
+            "tabNameAlignment": "left",
+            "toggleTabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true,
+            "pageOffDotImage": "",
+            "pageOnDotImage": ""
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerPosition": "top",
+            "image1": "tableftarrow.png",
+            "image2": "tabrightarrow.png"
+        }
+    },
+    "viewtype": "tabview",
+    "wType": "TabPane",
+    "zindex": 1
+}

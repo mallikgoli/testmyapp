@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd2eedb5810341e793d056ef3b97ae22",
+    "_top_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CheckBoxGroup0bc4f9a6ad1c24c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "b86f47d568284073ad558d6673ff2ff3",
+    "masterdata": [
+        [
+            "cbg1",
+            "Checkbox One"
+        ],
+        [
+            "cbg2",
+            "Checkbox Two"
+        ],
+        [
+            "cbg3",
+            "Checkbox Three"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "Form0g76245bb766946",
+    "pf": "Form0g76245bb766946",
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}
