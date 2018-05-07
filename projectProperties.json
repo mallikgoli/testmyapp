@@ -7,10 +7,10 @@
     "appaddrkey": "",
     "tabletstartupformkey": "ed3392dd235b48bd8044ed454c882a7d",
     "nativeContainerProperties": {
-        "isModified": true,
-        "isEnableJSContainer": true,
         "isEnableJSContainerAndroid": true,
-        "isEnableJSContaineriOS": true
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
     },
     "appnamekey": "testmyapp",
     "currentgaversion": "8.2.0",
